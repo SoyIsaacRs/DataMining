@@ -1,5 +1,7 @@
 # Practica 5
 
+![Modelo relacional de la tienda Elektra](https://github.com/SoyIsaacRs/DataMining/blob/master/Practica5/resources/elektra.png)
+
 **Ejercicio 1:** Que muestre quien son los clientes que tiene una sucursal determinada.
 
 **Ejercicio 2:** Con base al género, mostrar el nombre de los clientes y decir a que sucursal
